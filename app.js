@@ -102,7 +102,67 @@
 // 5 x 2 = 10
  
  
- for(let i = 1; i <= 10; i++) {
+//  for(let i = 1; i <= 10; i++) {
 
-      console.log('5 * ' + i + ' = ', (5 * i));
- }
+//       console.log('5 * ' + i + ' = ', (5 * i));
+//  }
+
+
+// 8️⃣ Reverse String
+
+// Example:
+
+// Input: "hello"
+// Output: "olleh"
+
+// const city = 'hello';
+// const reverseCity = city.split('').reverse().join('');
+// console.log(reverseCity);
+
+// 9️⃣ Vowel Count
+
+// একটা string এ কয়টা vowel আছে count করো।
+
+// Example:
+
+// Input: "javascript"
+// Output: 3
+
+// let name = "javascript"
+// const vowels =  "aeiouAEIOU";
+// let count = 0
+
+// for(let i = 0; i < name.length; i++ ) {
+  
+//      if(vowels.includes(name[i])) {
+//         count++
+//      }
+// }
+// console.log(count);
+
+// 🔟 Array Sum
+
+// Example:
+
+// [10,20,30,40]
+
+// Output:
+
+// 100
+//  let numbers = [10,20,30,40]
+//  let sum = 0;
+
+//  for(let num of numbers) {
+//      sum = sum + num
+//      console.log(sum)
+//  }
+
+
+// let numbers = [10, 20, 30, 40];
+// let sum = 0;
+
+// for(let i = 0; i < numbers.length; i++) {
+//     sum = sum + numbers[i];
+    
+// }
+// console.log(sum)
