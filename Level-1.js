@@ -119,6 +119,10 @@
 // const reverseCity = city.split('').reverse().join('');
 // console.log(reverseCity);
 
+// const name = 'salauddin';
+// const reverseName = name.split('').reverse().join('');
+// console.log(reverseName)
+
 // 9️⃣ Vowel Count
 
 // একটা string এ কয়টা vowel আছে count করো।
